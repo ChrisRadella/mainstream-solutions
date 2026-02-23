@@ -62,6 +62,11 @@ nav a:hover {
   line-height: 1.6;
 }
 
+.live-note {
+  margin-top: 15px;
+  font-size: 0.95rem;
+  color: #93c5fd;
+}
 .btn-primary {
   background-color: #1f6feb;
   color: white;
