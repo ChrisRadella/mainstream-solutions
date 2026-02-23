@@ -62,6 +62,9 @@ nav a:hover {
   line-height: 1.6;
 }
 
+.services {
+  text-align: center;
+}
 .service-details {
   list-style: none;
   padding: 0;
