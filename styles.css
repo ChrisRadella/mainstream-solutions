@@ -62,6 +62,17 @@ nav a:hover {
   line-height: 1.6;
 }
 
+.service-details {
+  list-style: none;
+  padding: 0;
+  margin-top: 15px;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.service-details li {
+  margin-bottom: 6px;
+}
 .live-note {
   margin-top: 15px;
   font-size: 0.95rem;
