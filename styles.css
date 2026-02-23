@@ -175,7 +175,10 @@ footer {
   padding: 80px 20px;
   text-align: center;
 }
-
+.how-it-works h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
 .steps {
   display: flex;
   flex-wrap: wrap;
