@@ -274,6 +274,15 @@ footer {
   margin: 120px auto;
   text-align: center;
 }
+.post-submit-note {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.7);
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 form {
   margin-top: 40px;
